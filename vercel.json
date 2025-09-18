@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://mobinsa2.dyndns.org:5000/api/$1" }
+  ]
+}
